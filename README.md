@@ -1,0 +1,2 @@
+# Personalized-Finance-Management-System
+Personalized Finance Management System refers to the process of balancing one's individual income, Expenses with financial data.Personalized Finance Management System makes managing personal finances as easy as pie! Now easily record your personal and financial transactions, generate spending reports, review your daily, weekly and monthly financial data and manage your money with Personalized Finance Management System Incomes &amp; Expenses tracker and budget planner.
